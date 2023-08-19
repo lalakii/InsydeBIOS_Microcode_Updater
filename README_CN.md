@@ -7,6 +7,6 @@ InsydeBIOS Microcode Update Tool Version 2.0.0.3 Final
 建议配合此工具使用: https://github.com/platomav/MCExtractor
 
 
-##&copy; 2023 iamverycute
+## &copy;2023 iamverycute
 
 **原创软件，禁止倒卖，分享请标注来源！**
