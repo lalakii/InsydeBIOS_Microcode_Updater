@@ -7,6 +7,6 @@ See: [YouTube](https://www.youtube.com/watch?v=ML1FwG7nzF4)
 Recommended for use with this tool: https://github.com/platomav/MCExtractor
 
 
-## &copy; 2023 iamverycute
+## &copy; 2023 lalakii
 
 **Original software, please do not sell, share please mark the source!**
