@@ -1,5 +1,5 @@
 # InsydeBIOS_Microcode_Updater
-InsydeBIOS Microcode Update Tool Version 2.0.0.3 Final [中文说明](https://github.com/iamverycute/InsydeBIOS_Microcode_Updater/blob/master/README_CN.md)
+InsydeBIOS Microcode Update Tool Version 2.0.0.3 Final [中文说明](https://github.com/lalakii/InsydeBIOS_Microcode_Updater/blob/master/README_CN.md)
 
 ## How to use?
 See: [YouTube](https://www.youtube.com/watch?v=ML1FwG7nzF4)
